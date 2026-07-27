@@ -1,6 +1,0 @@
-@AuthBackend_HostAddress = http://localhost:5014
-
-GET {{AuthBackend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
