@@ -89,7 +89,7 @@ Users can create multiple projects, assign tasks to team members, monitor projec
 
 ### Database
 
-* Microsoft SQL Server
+* Microsoft SQL Server (Current swap to SQLite)
 
 ### Authentication
 
@@ -183,6 +183,3 @@ This project demonstrates practical experience in:
 
 ## 👨‍💻 Author HEE WEI JIE
 
-Developed as a university full-stack web development project.
-
-If you found this project helpful, feel free to ⭐ this repository.
